@@ -4,7 +4,7 @@
 
 # Hi, I'm Andri 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&pause=1000\&color=FF5555\&width=450\&lines=Full+Stack+Developer;Mobile+Developer;Product+Builder;AI+Enthusiast;Building+Digital+Solutions;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&pause=1000\&color=3b82f6\&width=450\&lines=Full+Stack+Developer;Mobile+Developer;Product+Builder;AI+Enthusiast;Building+Digital+Solutions;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
 
 ### Andri Dwi Somantri
 
