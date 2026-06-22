@@ -1,25 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E40AF,100:06B6D4&text=Andri%20Dwi%20Somantri&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=22\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Full+Stack+Developer;Mobile+Developer;Product+Builder;AI+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Things)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0F172A,60:1E3A8A,100:06B6D4&text=A%20N%20D%20R%20I&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=CleonThadeas&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=22\&pause=1200\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Full+Stack+Developer;Mobile+Developer;Product+Builder;AI+Enthusiast;Building+Digital+Solutions;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=CleonThadeas&label=PROFILE+VIEWS&style=flat-square&color=38BDF8"/>
 
 <br><br>
 
 <a href="https://andrixlab.me">
-<img src="https://img.shields.io/badge/Website-AndrixLab-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANDRIXLAB-0F172A?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/andridwisomantri/">
-<img src="https://img.shields.io/badge/LinkedIn-Andri_Dwi_Somantri-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge"/>
 </a>
 
-<a href="mailto:andrisomantri1324@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/CleonThadeas">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge"/>
 </a>
 
 </div>
@@ -28,92 +30,148 @@
 
 <div align="center">
 
-### Navigation
+### ◆ DIGITAL BUILDER ◆
 
-<a href="#about">About</a> • <a href="#stack">Stack</a> • <a href="#projects">Projects</a> • <a href="#experience">Experience</a> • <a href="#achievements">Achievements</a> • <a href="#analytics">Analytics</a>
-
-</div>
-
----
-
-## <a id="analytics"></a> ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CleonThadeas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleonThadeas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CleonThadeas&theme=tokyonight&hide_border=true"/>
+*"Creating products, solving problems, and continuously learning."*
 
 </div>
 
 ---
 
-## <a id="stack"></a> ◈ Tech Stack
+## ◈ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,golang,nodejs,mysql,postgres,vue,nuxtjs,tailwind,bootstrap,js,ts,git,github,docker,linux,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,golang,nodejs,mysql,postgres,vue,nuxtjs,tailwind,js,ts,git,github,docker,firebase,linux,figma"/>
 
 </div>
 
 ---
 
-## <a id="about"></a> ◈ About
+## ◈ Workspace
 
 <details>
-<summary><b>Open About Me</b></summary>
+<summary><b>Open Workspace</b></summary>
 
 <br>
 
 ```yaml
-Name: Andri Dwi Somantri
-Location: Indonesia
+Editor: VS Code
 
-Roles:
-  - Full Stack Developer
-  - Mobile Developer
-  - Product Builder
+Mobile:
+  - Flutter
+  - Dart
 
-Interests:
-  - Artificial Intelligence
-  - Software Engineering
-  - Mobile Development
-  - Digital Product Development
+Backend:
+  - Laravel
+  - Golang
 
-Mission:
-  Build technology that creates real impact.
+Database:
+  - MySQL
+  - PostgreSQL
+
+Tools:
+  - Git
+  - Docker
+  - Linux
+
+Focus:
+  - Mobile Apps
+  - AI Integration
+  - Product Development
 ```
 
 </details>
 
 ---
 
-## <a id="projects"></a> ◈ Featured Projects
+## ◈ About
+
+<details>
+<summary><b>Open About Me</b></summary>
+
+<br>
+
+I am a developer focused on building digital products that create real impact.
+
+My interests span mobile development, backend engineering, artificial intelligence, and software architecture.
+
+Currently working on products, learning new technologies, and exploring better ways to turn ideas into scalable solutions.
+
+</details>
+
+---
+
+## ◈ Featured Projects
 
 <details>
 <summary><b>View Projects</b></summary>
 
 <br>
 
-| Project              | Description                     |
-| -------------------- | ------------------------------- |
-| ♻️ OkGreen           | Waste Management Platform       |
-| 🤖 KairovaAI         | AI Career Intelligence Platform |
-| 📦 TripleA Inventory | Inventory Management System     |
-| 🕌 ImamKu            | Islamic Companion App           |
-| 🌐 AndrixLab         | Portfolio & Development Hub     |
+### ♻️ OkGreen
+
+Waste Management Platform
+
+---
+
+### 🤖 KairovaAI
+
+AI Career Intelligence Platform
+
+---
+
+### 📦 TripleA Inventory
+
+Inventory Management System
+
+---
+
+### 🕌 ImamKu
+
+Islamic Companion Application
+
+---
+
+### 🌐 AndrixLab
+
+Portfolio & Development Hub
 
 </details>
 
 ---
 
-## <a id="experience"></a> ◈ Professional Experience
+## ◈ Developer Journey
+
+<details>
+<summary><b>View Journey</b></summary>
+
+<br>
+
+```text
+SMKN 11 Bandung
+      │
+      ▼
+Student Company
+      │
+      ▼
+Business Competitions
+      │
+      ▼
+Product Development
+      │
+      ▼
+Mobile Developer
+      │
+      ▼
+Building AndrixLab
+```
+
+</details>
+
+---
+
+## ◈ Experience
 
 <details>
 <summary><b>View Experience</b></summary>
@@ -122,46 +180,44 @@ Mission:
 
 ### Mobile Developer
 
-**Poolapack**
+Poolapack
 
-* Mobile application development using Flutter
-* Feature implementation and maintenance
-* UI/UX integration
-* API integration
-* Application optimization
+* Mobile Application Development
+* API Integration
+* Flutter Development
+* Feature Development
+* UI Implementation
 
 </details>
 
 ---
 
-## <a id="achievements"></a> ◈ Achievements
+## ◈ Achievements
 
 <details>
 <summary><b>View Achievements</b></summary>
 
 <br>
 
-* 🏆 TARBAK UNIFEST Business Plan Winner
-* 🏅 Zurich Entrepreneurship Program
-* 🏅 Student Company Competition
-* 🏅 Job Shadow Program
-* 🏅 Virtual Reality Educourse
+🏆 TARBAK UNIFEST Business Plan Winner
+
+🏅 Zurich Entrepreneurship Program
+
+🏅 Student Company Competition
+
+🏅 Job Shadow Program
+
+🏅 Virtual Reality Educourse
 
 </details>
 
 ---
 
-## ◈ Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CleonThadeas&theme=tokyo-night&hide_border=true"/>
-
----
-
-## ◈ Contribution Snake
+## ◈ GitHub Snapshot
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CleonThadeas/CleonThadeas/output/github-contribution-grid-snake.svg"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=CleonThadeas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -171,12 +227,14 @@ Mission:
 
 ### ◈ Philosophy
 
-> *"Do your best so the results will follow."*
+> "Do your best so the results will follow."
 
-> *"Don't Give Up."*
+<br>
+
+> "Don't Give Up."
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E40AF,100:06B6D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,30:0F172A,60:1E3A8A,100:06B6D4"/>
