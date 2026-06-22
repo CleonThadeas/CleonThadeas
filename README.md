@@ -1,112 +1,71 @@
-<iframe src="https://giphy.com/embed/l0MYuxp3Rjlrka8mY" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/music-video-plurabelle-our-fires-l0MYuxp3Rjlrka8mY">via GIPHY</a></p>
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0F172A,60:1E3A8A,100:06B6D4&text=A%20N%20D%20R%20I&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40"/>
+# Hi, I'm Andri 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&pause=1000\&color=FF5555\&width=450\&lines=Full+Stack+Developer;Mobile+Developer;Product+Builder;AI+Enthusiast;Building+Digital+Solutions;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+
+### Andri Dwi Somantri
+
+#### *Cleon Thadeas*
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=22\&pause=1200\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Full+Stack+Developer;Mobile+Developer;Product+Builder;AI+Enthusiast;Building+Digital+Solutions;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+🌐 **Website**
+https://andrixlab.me
+
+💼 **LinkedIn**
+https://linkedin.com/in/andridwisomantri
+
+🐙 **GitHub**
+https://github.com/CleonThadeas
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=CleonThadeas&label=PROFILE+VIEWS&style=flat-square&color=38BDF8"/>
+![](https://komarev.com/ghpvc/?username=CleonThadeas\&label=Profile+Views\&color=red\&style=flat)
 
-<br><br>
+</td>
 
-<a href="https://andrixlab.me">
-<img src="https://img.shields.io/badge/ANDRIXLAB-0F172A?style=for-the-badge"/>
-</a>
+<td width="40%">
 
-<a href="https://www.linkedin.com/in/andridwisomantri/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge"/>
-</a>
+<img src="./assets/cat-window.gif" width="280"/>
 
-<a href="https://github.com/CleonThadeas">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge"/>
-</a>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
-
-<div align="center">
-
-### ◆ DIGITAL BUILDER ◆
-
-*"Creating products, solving problems, and continuously learning."*
-
-</div>
-
----
-
-## ◈ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,golang,nodejs,mysql,postgres,vue,nuxtjs,tailwind,js,ts,git,github,docker,firebase,linux,figma"/>
-
-</div>
-
----
-
-## ◈ Workspace
 
 <details>
-<summary><b>Open Workspace</b></summary>
+<summary><b>👨‍💻 About Me</b></summary>
 
 <br>
 
 ```yaml
-Editor: VS Code
+Name: Andri Dwi Somantri
+Alias: Cleon Thadeas
 
-Mobile:
+Role:
+  - Mobile Developer
+  - Full Stack Developer
+
+Interests:
+  - Artificial Intelligence
+  - Software Engineering
+  - Product Development
+
+Current Focus:
   - Flutter
-  - Dart
-
-Backend:
   - Laravel
   - Golang
-
-Database:
-  - MySQL
-  - PostgreSQL
-
-Tools:
-  - Git
-  - Docker
-  - Linux
-
-Focus:
-  - Mobile Apps
   - AI Integration
-  - Product Development
 ```
 
 </details>
 
----
-
-## ◈ About
-
 <details>
-<summary><b>Open About Me</b></summary>
-
-<br>
-
-I am a developer focused on building digital products that create real impact.
-
-My interests span mobile development, backend engineering, artificial intelligence, and software architecture.
-
-Currently working on products, learning new technologies, and exploring better ways to turn ideas into scalable solutions.
-
-</details>
-
----
-
-## ◈ Featured Projects
-
-<details>
-<summary><b>View Projects</b></summary>
+<summary><b>🚀 Projects I'm Building</b></summary>
 
 <br>
 
@@ -140,42 +99,8 @@ Portfolio & Development Hub
 
 </details>
 
----
-
-## ◈ Developer Journey
-
 <details>
-<summary><b>View Journey</b></summary>
-
-<br>
-
-```text
-SMKN 11 Bandung
-      │
-      ▼
-Student Company
-      │
-      ▼
-Business Competitions
-      │
-      ▼
-Product Development
-      │
-      ▼
-Mobile Developer
-      │
-      ▼
-Building AndrixLab
-```
-
-</details>
-
----
-
-## ◈ Experience
-
-<details>
-<summary><b>View Experience</b></summary>
+<summary><b>💼 Professional Experience</b></summary>
 
 <br>
 
@@ -183,50 +108,85 @@ Building AndrixLab
 
 Poolapack
 
-* Mobile Application Development
-* API Integration
 * Flutter Development
-* Feature Development
+* API Integration
 * UI Implementation
+* Feature Development
+* Application Maintenance
 
 </details>
 
----
-
-## ◈ Achievements
-
 <details>
-<summary><b>View Achievements</b></summary>
+<summary><b>🛠 Tech Stack</b></summary>
 
 <br>
 
-🏆 TARBAK UNIFEST Business Plan Winner
+<p align="center">
 
-🏅 Zurich Entrepreneurship Program
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,golang,nodejs,mysql,postgres,vue,nuxtjs,tailwind,bootstrap,js,ts,git,github,docker,linux,postman,figma"/>
 
-🏅 Student Company Competition
-
-🏅 Job Shadow Program
-
-🏅 Virtual Reality Educourse
+</p>
 
 </details>
 
----
+<details>
+<summary><b>🏆 Achievements</b></summary>
 
-## ◈ GitHub Snapshot
+<br>
 
-<div align="center">
+* TARBAK UNIFEST Business Plan Winner
+* Zurich Entrepreneurship Program
+* Student Company Competition
+* Job Shadow Program
+* Virtual Reality Educourse
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CleonThadeas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</details>
 
-</div>
+<details>
+<summary><b>📈 Developer Journey</b></summary>
 
----
+<br>
 
-<div align="center">
+```text
+SMKN 11 Bandung
+        │
+        ▼
+Student Company
+        │
+        ▼
+Business Competitions
+        │
+        ▼
+Product Development
+        │
+        ▼
+Mobile Developer
+        │
+        ▼
+Building AndrixLab
+```
 
-### ◈ Philosophy
+</details>
+
+<details>
+<summary><b>📊 GitHub Analytics</b></summary>
+
+<br>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CleonThadeas&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleonThadeas&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+</details>
+
+<details>
+<summary><b>💭 Philosophy</b></summary>
+
+<br>
 
 > "Do your best so the results will follow."
 
@@ -234,8 +194,4 @@ Poolapack
 
 > "Don't Give Up."
 
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,30:0F172A,60:1E3A8A,100:06B6D4"/>
+</details>
